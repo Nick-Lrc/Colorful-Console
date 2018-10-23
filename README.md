@@ -25,7 +25,7 @@ What does it contain?
 > `./app/Utility/Config/trace.ini` :  
 >> Wait, you don't like our built-in themes for `Trace.php`?  
 >> No problem, customize them by yourself!  
->> Take a look of `Dye.php` so you will know how to build your favorite theme!  
+>> Take a look of `Trace.php` so you will know how to build your favorite theme!  
 
 But wait, there is more!
 > `./app/Utility/CompanyLogo.php` :  
